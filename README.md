@@ -1,10 +1,10 @@
 ## Hi there 👋
-
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/ksb2725" width="600" height="300"/></a>
 <!--
 **oneweeeek/oneweeeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/ksb2725" width="600" height="300"/></a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
